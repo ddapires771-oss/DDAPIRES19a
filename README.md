@@ -211,3 +211,5 @@
 (imagens, css, etc. — se tiver)
 
 melhorias-site
+Branch: principal (ou main)
+Folder: / (root)
