@@ -191,25 +191,21 @@
     </div>
   </section>
 
-  <section id="contato" class="contato">
-    <h2>Fale Conosco</h2>
-    <form>
-      <input type="text" placeholder="Seu nome" required>
-      <input type="email" placeholder="Seu e-mail" required>
-      <textarea rows="5" placeholder="Mensagem" required></textarea>
-      <button type="submit">Enviar Mensagem</button>
-    </form>
-  </section>
+<form action="https://formsubmit.co/ddapires771@gmail.com" method="POST">
+  <input type="text" name="name" placeholder="Seu name" required>
+  <input type="email" name="email" placeholder="Seu e-mail" required>
+  <textarea name="message" rows="5" placeholder="Mensagem" required></textarea>
+  <button type="submit">Enviar Mensagem</button>
+
+  <!-- Configurações extras -->
+  <input type="hidden" name="_subject" value="Nova mensagem do site DDA Pires!">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_next" value="https://ddapires771-oss.github.io/DDAPIRES19a/sucesso.html">
+</form>
 
   <footer>
-    <p>&copy; 2025 DDA Pire - Todos os direitos reservados | Desenvolvido por <a href="#">SeuNome</a></p>
+    <p>&copy; 2025 DDA Pire - Todos os direitos reservados | Desenvolvido por <a href="#">DOUGLAS PIRES</a></p>
   </footer>
 </body>
 </html>
 
-.gitignore
-(imagens, css, etc. — se tiver)
-
-melhorias-site
-Branch: principal (ou main)
-Folder: / (root)
