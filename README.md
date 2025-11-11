@@ -190,8 +190,7 @@
       <p>Renovação de ambientes, reparos e modernizações com atendimento personalizado.</p>
     </div>
   </section>
-<h2>Fale Conosco</h2>
-<form action="https://formsubmit.co/ddapires771@gmail.com" method="POST">
+<form action="https://formsubmit.co/ddapires@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Seu name" required>
   <input type="email" name="email" placeholder="Seu e-mail" required>
   <textarea name="message" rows="5" placeholder="Mensagem" required></textarea>
