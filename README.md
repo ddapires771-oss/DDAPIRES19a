@@ -190,16 +190,18 @@
       <p>Renovação de ambientes, reparos e modernizações com atendimento personalizado.</p>
     </div>
   </section>
+<h2>Contato</h2>
 <form action="https://formsubmit.co/ddapires771@gmail.com" method="POST">
   <input type="text" name="name" placeholder="Seu name" required>
   <input type="email" name="email" placeholder="Seu e-mail" required>
   <textarea name="message" rows="5" placeholder="Mensagem" required></textarea>
-  <button type="submit">Enviar Mensagem</button>
 
-  <!-- Configurações extras -->
-  <input type="hidden" name="_subject" value="Nova mensagem do site DDA Pires!">
+  <!-- Configurações -->
   <input type="hidden" name="_captcha" value="false">
   <input type="hidden" name="_next" value="https://ddapires771-oss.github.io/DDAPIRES19a/sucesso.html">
+  <input type="hidden" name="_subject" value="Nova mensagem do site DDA Pires!">
+
+  <button type="submit">Enviar Mensagem</button>
 </form>
 
   <footer>
